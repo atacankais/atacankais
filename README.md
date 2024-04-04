@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Atacan! <br/>A skilled <a href="https://www.linkedin.com/in/atacan-kais/">Software Developer</a> with a Bachelor of Science in Information Systems</h1>
 
-<!--
-**atacankais/atacankais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>C# (.NET Desktop Applications)</b>
+  - [Chess](https://github.com/atacankais/Chess)
+  - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
+- <b>Java</b>
+  - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🎓 Education</h2>
+- Bachelor of Science in Information Systems, Örebro University, 2024<br/>
+
+<h2>💼 Skills</h2>
+- Programming Languages: Java, C, C# .NET, Python<br/>
+- Web Development: HTML/CSS, JavaScript<br/>
+- Database Management: SQL<br/>
+- Operating Systems: Linux<br/>
+- Version Control: GitHub<br/>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AtacanKais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/atacan-kais
