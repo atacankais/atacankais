@@ -12,8 +12,8 @@
 - Bachelor of Science in Information Systems, Örebro University, 2024<br/>
 
 <h2>💼 Skills</h2>
-- Programming Languages: Java, C#.NET, C, Python<br/>
-- Web Development: HTML/CSS, JavaScript, React.js, Node.js<br/>
+- Programming Languages: C#.NET, Java, C, Python<br/>
+- Web Development: JavaScript, React.js, Node.js, HTML/CSS<br/>
 - Mobile Development: React Native<br/>
 - Database Management: SQL<br/>
 - Operating Systems: Linux<br/>
