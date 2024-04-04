@@ -16,7 +16,7 @@
 - Web Development: HTML/CSS, JavaScript<br/>
 - Database Management: SQL<br/>
 - Operating Systems: Linux<br/>
-- Version Control: GitHub<br/>
+- Version Control: Git<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
