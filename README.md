@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Java</b>
+  - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Chess](https://github.com/atacankais/Chess)
   - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
-- <b>Java</b>
-  - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
 
 <h2>🎓 Education</h2>
 - Bachelor of Science in Information Systems, Örebro University, 2024<br/>
