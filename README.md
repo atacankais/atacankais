@@ -9,6 +9,9 @@
   - [Chess](https://github.com/atacankais/Chess)
   - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
 
+ - <b>React.js</b>
+  - [Chess](https://github.com/atacankais/ChessReact)
+
 <h2>🎓 Education</h2>
 - Bachelor of Science in Information Systems, Örebro University, 2024<br/>
 
