@@ -6,7 +6,7 @@
   - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Chess](https://github.com/atacankais/Chess)
+  - [Snake Game](https://github.com/atacankais/SnakeGame)
   - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
 
  - <b>React.js</b>
