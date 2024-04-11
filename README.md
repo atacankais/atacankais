@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java</b>
-  - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
-
 - <b>C# (.NET Desktop Applications)</b>
   - [Snake Game](https://github.com/atacankais/SnakeGame)
   - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
+
+- <b>Java</b>
+  - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
 
  - <b>React.js</b>
    - [Chess](https://github.com/atacankais/ChessReact)
