@@ -4,7 +4,6 @@
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Snake Game](https://github.com/atacankais/SnakeGame)
-  - [Restaurant Point of Sale](https://github.com/atacankais/RestaurantPOS)
 
 - <b>Java</b>
   - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
