@@ -8,8 +8,6 @@
 - <b>Java</b>
   - [Business System for Hat Manufacturer](https://github.com/atacankais/Hattmakarna)
 
- - <b>React.js</b>
-   - [Chess](https://github.com/atacankais/ChessReact)
 
 <h2>🎓 Education</h2>
 - Bachelor of Science in Information Systems, Örebro University, 2024<br/>
